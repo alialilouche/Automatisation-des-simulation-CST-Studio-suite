@@ -1,0 +1,2 @@
+# Automatisation-des-simulation-CST-Studio-suite
+Projet réalisé dans le cadre du Master en Compatibilité Électromagnétique (CEM) : développement d'un outil d'automatisation des simulations sous CST Studio Suite via MATLAB pour mener des études paramétriques de l'efficacité de blindage d'une enceinte fermée munie d'une fente.
