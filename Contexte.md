@@ -1,2 +1,3 @@
  L’évaluation de l’efficacité de blindage (SE) apportée par un système de protection est un paramètre d’importance dans une étude CEM. La simulation numérique peut permettre d’estimer le SE de systèmes complexes. Toutefois, en raison de résonances et dans la perspective d’une optimisation du SE, les calculs requis peuvent être très nombreux et longs à obtenir.
+
 L’utilisation conjointe d’approximations analytiques, de simulations numériques et de réseaux de neurones peut être une solution innovante.
